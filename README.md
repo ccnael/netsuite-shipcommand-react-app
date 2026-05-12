@@ -1,5 +1,5 @@
 # ShipCommand SuiteApp
-A comprehensive order fulfillment and shipping management application
+React based Suitelet - A comprehensive order fulfillment and shipping management application
 
 Comes with interactive charts and performance insights on order volume, carrier usage, shipping costs, delivery times, and more
 
